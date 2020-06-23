@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DemoApp10/Pods-DemoApp10-frameworks.sh
+${PODS_ROOT}/IBMMobileFirstPlatformFoundation/IBMMobileFirstPlatformFoundation/Frameworks/IBMMobileFirstPlatformFoundation.framework
+${PODS_ROOT}/IBMMobileFirstPlatformFoundation/IBMMobileFirstPlatformFoundation/Frameworks/IBMMobileFoundationSwift.framework
+${BUILT_PRODUCTS_DIR}/IBMMobileFirstPlatformFoundationLiveUpdate/IBMMobileFirstPlatformFoundationLiveUpdate.framework
